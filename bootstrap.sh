@@ -9,7 +9,7 @@ GEMS=bundler
 sudo apt-get update
 
 # Install Ubuntu packages
-sudo apt-get install git -y
+sudo apt-get install -y git libcurl4-openssl-dev
 
 # Install Ruby
 if [ ! -e $RVM_PATH ]; then
