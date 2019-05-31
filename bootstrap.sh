@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 # Customization parameters.
-RUBY_VERSION=2.5
+RUBY_VERSION=2.6
 RVM_PATH=/usr/local/rvm
 GEMS=bundler
 
